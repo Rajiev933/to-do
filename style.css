@@ -48,6 +48,7 @@ input {
   background: transparent;
   padding: 10px;
   font-weight: 14px;
+  width: 100%;
 }
 button{
   border: none;
